@@ -9,9 +9,12 @@
 ``` 
 .
 ├── README.md
-├── data
+├── data/
 │   ├── IPpool.json
-└── src
+│   ├── README.md
+│   ├── char-data/
+│   └── word-data/
+└── src/
     ├── char.py
     └── word.py
 ```
